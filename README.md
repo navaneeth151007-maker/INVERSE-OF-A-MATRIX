@@ -5,10 +5,10 @@ To write a python program to find the inverse of a matrix
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step1 : 
-### Step 2: 
-### Step 3: 
-### Step 4: 
+### Step1 : Form the augmented matrix
+### Step 2: Convert left side (A) to the identity matrix
+### Step 3: When A becomes I, the right side becomes A⁻¹
+### Step 4: Output the right side of the augmented matrix
 
 ## Program:
 ```
